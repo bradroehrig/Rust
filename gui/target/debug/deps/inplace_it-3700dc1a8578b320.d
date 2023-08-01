@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\rust_first\gui\target\debug\deps\inplace_it-3700dc1a8578b320.rmeta: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\mod.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\uninitialized_slice_memory_guard.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\slice_memory_guard.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\fixed_array.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\alloc_array.rs
+
+C:\Users\Admin\Documents\GitHub\rust_first\gui\target\debug\deps\inplace_it-3700dc1a8578b320.d: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\mod.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\uninitialized_slice_memory_guard.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\slice_memory_guard.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\fixed_array.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\alloc_array.rs
+
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\mod.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\uninitialized_slice_memory_guard.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\slice_memory_guard.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\fixed_array.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\alloc_array.rs:

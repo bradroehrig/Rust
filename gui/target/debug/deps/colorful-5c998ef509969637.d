@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\GitHub\rust_first\gui\target\debug\deps\colorful-5c998ef509969637.rmeta: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\mod.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\colors.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\symbols.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\style.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\color_string.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\rgb.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\hsl.rs
+
+C:\Users\Admin\Documents\GitHub\rust_first\gui\target\debug\deps\colorful-5c998ef509969637.d: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\mod.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\colors.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\symbols.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\style.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\color_string.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\rgb.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\hsl.rs
+
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\mod.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\colors.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\symbols.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\style.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\color_string.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\rgb.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.2\src\core\hsl.rs:
