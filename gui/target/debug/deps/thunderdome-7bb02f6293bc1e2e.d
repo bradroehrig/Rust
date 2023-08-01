@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\GitHub\rust_first\gui\target\debug\deps\thunderdome-7bb02f6293bc1e2e.rmeta: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\arena.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\drain.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\free_pointer.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\generation.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\into_iter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter_mut.rs
+
+C:\Users\Admin\Documents\GitHub\rust_first\gui\target\debug\deps\thunderdome-7bb02f6293bc1e2e.d: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\arena.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\drain.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\free_pointer.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\generation.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\into_iter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter_mut.rs
+
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\arena.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\drain.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\free_pointer.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\generation.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\into_iter.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter_mut.rs:

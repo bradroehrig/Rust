@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\GitHub\rust_first\gui\target\debug\deps\thiserror_impl-c7516c401753e22e.dll: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\ast.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\attr.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\expand.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\fmt.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\generics.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\prop.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\valid.rs
+
+C:\Users\Admin\Documents\GitHub\rust_first\gui\target\debug\deps\thiserror_impl-c7516c401753e22e.d: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\ast.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\attr.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\expand.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\fmt.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\generics.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\prop.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\valid.rs
+
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\ast.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\attr.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\expand.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\fmt.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\generics.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\prop.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.44\src\valid.rs:
