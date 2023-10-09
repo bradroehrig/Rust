@@ -47,4 +47,12 @@ fn main() {
 
 // fn take_and_give(str2: String ) -> String {
 //     str2
+
+let mut s = String::from("Hello");
+    change_string(&mut s);
+    println!("{}", s);
+}
+
+fn change_string(some_string: &mut String){
+    some_string.push_str(" world!");
 }
