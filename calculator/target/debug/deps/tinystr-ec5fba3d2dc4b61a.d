@@ -1,0 +1,11 @@
+C:\Users\bradr\Documents\GitHub\Rust\calculator\target\debug\deps\libtinystr-ec5fba3d2dc4b61a.rmeta: C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\lib.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\macros.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\ascii.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\asciibyte.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\error.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\int_ops.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\unvalidated.rs
+
+C:\Users\bradr\Documents\GitHub\Rust\calculator\target\debug\deps\tinystr-ec5fba3d2dc4b61a.d: C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\lib.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\macros.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\ascii.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\asciibyte.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\error.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\int_ops.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\unvalidated.rs
+
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\lib.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\macros.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\ascii.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\asciibyte.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\error.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\int_ops.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\unvalidated.rs:

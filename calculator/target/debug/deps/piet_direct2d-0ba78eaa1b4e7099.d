@@ -1,0 +1,11 @@
+C:\Users\bradr\Documents\GitHub\Rust\calculator\target\debug\deps\libpiet_direct2d-0ba78eaa1b4e7099.rmeta: C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\lib.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\conv.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\d2d.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\d3d.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\dwrite.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\text.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\text\lines.rs
+
+C:\Users\bradr\Documents\GitHub\Rust\calculator\target\debug\deps\piet_direct2d-0ba78eaa1b4e7099.d: C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\lib.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\conv.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\d2d.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\d3d.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\dwrite.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\text.rs C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\text\lines.rs
+
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\lib.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\conv.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\d2d.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\d3d.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\dwrite.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\text.rs:
+C:\Users\bradr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piet-direct2d-0.6.2\src\text\lines.rs:
