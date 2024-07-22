@@ -1,0 +1,1 @@
+let inferred_tuple (i32, i32, &str) = (5, true, 'A');

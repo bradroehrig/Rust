@@ -1,5 +1,5 @@
 fn main() {
-    let one = 1;
+    let one = 2;
 
     if one > 10 {
         println!("True");

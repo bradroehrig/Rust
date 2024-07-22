@@ -1,0 +1,16 @@
+[package]
+name = "calc_good"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+atk = "0.17.1"
+gio = "0.18.1"
+gio-sys = "0.18.1"
+glib = "0.18.1"
+glib-2-0-sys = "0.46.4"
+glib-sys = "0.18.1"
+gobject-2-0-sys = "0.46.4"
+gtk = "0.17.1"
